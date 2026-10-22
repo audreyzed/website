@@ -20,7 +20,7 @@ eleventyNavigation:
 <section class="home-section">
   <div class="wrap">
     <div class="notice">
-      <strong>Keep Abernethy Open.</strong> PPS may close up to 20 schools at the end of this school year. <a href="/rightsizing/">Learn what’s happening and take action →</a>
+      <strong>Abernethy and Rightsizing.</strong> PPS may close up to 14 schools at the end of this school year. <a href="/rightsizing/">Learn what’s happening and take action →</a>
     </div>
     <h2>Find your way in</h2>
     <ul class="home-cards">
